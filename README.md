@@ -11,6 +11,6 @@ In the coming months activities will kick off including a podcast series with gu
 The principles and values that underpin this initiative are open sourced. The can be contributed to, improved up for clarity and traslated by anyone will to offer their energy. You can find them here.
 
 #### Contact
-Email: m3data@tuta.io
+Email: ourdecentfuture@tuta.io
 <br>
 Twitter: https://twitter.com/OurDecentFuture
