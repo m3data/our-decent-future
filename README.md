@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## OUR DECENT FUTURE
+Collaborative blueprints for the future
 
-You can use the [editor on GitHub](https://github.com/m3data/decent-future/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project is focused on collaborating with people and communities to design future systems for living.
+It is a lifelong project to create a world for future generations to inherit. One that is about improving the life and wellbeing of all people. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is coming?
+In the coming months activities will kick off including a podcast series with guest speakers, a community forum and regular blog content. The aim will be to evolve this into a decentralised platform to enable people to contribute ideas, thoughts, skills, knowledge, time and resources to giving us as a species clear direction about what world we are actively creating and leaving as a legacy of our time here.
 
-### Markdown
+### Principles and Values
+The principle and values that underpin this initiative are open sourced. The can be contributed to, improved up for clarity and traslated by anyone will to offer their energy. You can find them here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m3data/decent-future/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: m3data@tuta.io
+Twitter: https://twitter.com/OurDecentFuture
