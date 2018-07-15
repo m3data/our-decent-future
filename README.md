@@ -46,7 +46,7 @@ In the coming months activities will kick off including a podcast series with gu
 As the project grows it may warrant it's own platform, I envision it will. The aim will be to evolve this into a decentralised platform to enable people to contribute ideas, thoughts, skills, knowledge, time and resources to giving us as a species clear direction about what world we are actively creating and leaving as a legacy of our time here. We may decide to use existing open source tools to collaborate. This is a lifetime project so there is no rush on this. 
 
 #### Principles and Values
-The principles and values that underpin this initiative are open sourced. They can be contributed to, improved upon for clarity and translated by anyone willing to offer their energy. You can find them [here](our-decent-future/principles-and-value.md). 
+The principles and values that underpin this initiative are open sourced. They can be contributed to, improved upon for clarity and translated by anyone willing to offer their energy. You can find them [here](https://github.com/m3data/our-decent-future/blob/master/principles-and-value.md). 
 
 
 #### Contact
