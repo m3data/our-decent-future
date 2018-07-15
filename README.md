@@ -26,7 +26,7 @@ It takes some effort to hold both these opposing possibilities in mind and conti
 
 ### So what is this project?
 
-It is an initiative to bring together people from many walks of life together. To imagine. To co-design and architect a blueprint of the world we want to live in and most importantly leave for future generations to inherit.
+It is an initiative to bring people from many walks of life together. To imagine. To co-design and architect a blueprint of the world we want to live in and most importantly leave for future generations to inherit. 
 
 A consolidation of ideas, great thinkers and innovators, utopian projects and inspiring and empowering creations to liberate people. It can be a portal into learning, not only about the possibilities, but also the real work of passionate people changing the world in the creative, intellectual and physical work they do.
 
