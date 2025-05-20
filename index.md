@@ -7,7 +7,7 @@ title: Home
 
 ### Collaborative blueprints for the future
 
-This project is focused on collaborating with people and communities to design future systems for living.
+This was a project focused on collaborating with people and communities to design future systems for living. Archived on here to maybe be revistited in another dimension of timespace.
 
 It is a lifelong project to create a world for future generations to inherit. One that is about improving the life and wellbeing of all people. 
 
