@@ -1,1 +1,17 @@
+title: Our Decent Future
+description: Collaborative blueprints for the future
 theme: jekyll-theme-slate
+baseurl: "/our-decent-future"
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - LICENSE
+  - README.md
+  - .gitignore
