@@ -12,14 +12,14 @@
 - [ ] Other (please describe)
 
 ## Related Issue
-<!-- If this PR addresses an issue, link it here -->
-Closes #
+<!-- If this PR addresses an issue, link it here using format: Closes #123 -->
+Closes #(issue number)
 
 ## Changes Made
 <!-- List the specific changes you've made -->
-- 
-- 
-- 
+- [Describe your first change]
+- [Describe your second change]
+- [Add more as needed] 
 
 ## Testing
 <!-- Describe how you tested your changes -->

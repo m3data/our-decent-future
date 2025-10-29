@@ -12,9 +12,9 @@ assignees: ''
 <!-- A clear description of what the bug is -->
 
 ### Steps to Reproduce
-1. 
-2. 
-3. 
+1. [First step]
+2. [Second step]
+3. [Third step] 
 
 ### Expected Behavior
 <!-- What you expected to happen -->
