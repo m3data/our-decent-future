@@ -3,4 +3,4 @@ layout: page
 title: Principles and Values
 ---
 
-{% include_relative principles-and-value.md %}
+{% include_relative principles-and-values.md %}

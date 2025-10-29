@@ -1,0 +1,35 @@
+# Jekyll build outputs
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
