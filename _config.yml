@@ -4,6 +4,11 @@ theme: jekyll-theme-slate
 baseurl: "/our-decent-future"
 url: ""
 
+# Site metadata
+author: m3data
+lang: en-US
+timezone: UTC
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -15,3 +20,11 @@ exclude:
   - LICENSE
   - README.md
   - .gitignore
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - CONTRIBUTING.md
+  - docs/
+  - node_modules/
+  - "*.gem"
+  - "*.gemspec"
